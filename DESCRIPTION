@@ -1,0 +1,12 @@
+Package: karskidocs
+Type: Package
+Title: document templates for Rmarkdown for myself
+Version: 0.1.1.5
+Date: 2015-10-08
+Author: Markus Kainu
+Maintainer: Markus Kainu <markuskainu@gmail.com>
+Description: More about what it does (maybe more than one line)
+License: GPL-3
+Imports:
+    rmarkdown
+RoxygenNote: 5.0.0

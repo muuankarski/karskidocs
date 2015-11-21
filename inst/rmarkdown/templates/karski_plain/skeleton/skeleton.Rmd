@@ -1,0 +1,29 @@
+---
+title: Capitalized Title Here
+author:
+  - name: Markus Kainu
+    affiliation: On his own behalf
+    address:
+    - line 1
+    - line 2
+    email:  author1@work
+date: "`r paste(Sys.time())`"
+output: karskidocs::karski_plain
+---
+
+# Introduction
+
+## Second level
+
+### Third level
+
+Aenean et nulla ante. Etiam id luctus mauris. Pellentesque vestibulum, urna eu fermentum lacinia, est erat fermentum nulla, id tincidunt ipsum neque et nisi. Mauris luctus nibh quis urna porttitor, nec facilisis mi ullamcorper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer urna turpis, tincidunt sed erat id, euismod vestibulum felis. Nulla scelerisque tellus lorem, a interdum felis pretium nec. Proin auctor odio est, eget eleifend felis sagittis id. Pellentesque aliquam nulla sit amet fringilla blandit. Ut interdum sapien quis est ornare, quis ultricies lacus euismod. Proin quis lacinia urna, vitae condimentum urna. Quisque mollis faucibus viverra. Mauris blandit vulputate volutpat. 
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+
+# Theory
+
+Aenean et nulla ante. Etiam id luctus mauris. Pellentesque vestibulum, urna eu fermentum lacinia, est erat fermentum nulla, id tincidunt ipsum neque et nisi. Mauris luctus nibh quis urna porttitor, nec facilisis mi ullamcorper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer urna turpis, tincidunt sed erat id, euismod vestibulum felis. Nulla scelerisque tellus lorem, a interdum felis pretium nec. Proin auctor odio est, eget eleifend felis sagittis id. Pellentesque aliquam nulla sit amet fringilla blandit. Ut interdum sapien quis est ornare, quis ultricies lacus euismod. Proin quis lacinia urna, vitae condimentum urna. Quisque mollis faucibus viverra. Mauris blandit vulputate volutpat. 
